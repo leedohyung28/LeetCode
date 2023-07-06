@@ -26,7 +26,6 @@ class Solution {
     }
 }
 ```
-<br><br>
 
 ### 배운점 : Java의 배열을 활용하는 방법 <br>
 ### 느낀점 : System.​arraycopy를 활용하여 효율성을 높이는 것
