@@ -1,5 +1,5 @@
 #### Best result Code
-```cpp
+```java
 class Solution {
     public int[] getConcatenation(int[] nums) {
          int output[] = new int[nums.length + nums.length];
@@ -14,7 +14,7 @@ class Solution {
 <br>
 
 #### More Simple Code (Compare to My Code)
-```cpp
+```java
 class Solution {
     public int[] getConcatenation(int[] nums) {
         int ans[] = new int [2*nums.length];
